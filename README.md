@@ -35,7 +35,7 @@ Windows 桌面端易班自动化工具：自动登录（含验证码）、签到
 | 来源 | 地址 | 说明 |
 |---|---|---|
 | 国内主站（推荐） | https://smart-study.cn/downloads/ | 速度快，适合国内直接下 |
-| GitHub Releases | https://github.com/gggffi-com/yiban-bot/releases/latest | 备用；国内访问可能只有几百 KB/s |
+| GitHub Releases | https://github.com/gggfff-corn/yiban-bot/releases/latest | 备用；国内访问可能只有几百 KB/s |
 
 GitHub 直链（打不开上面页面时可直接点这两个）：
 
