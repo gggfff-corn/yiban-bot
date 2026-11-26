@@ -39,8 +39,8 @@ Windows 桌面端易班自动化工具：自动登录（含验证码）、签到
 
 GitHub 直链（打不开上面页面时可直接点这两个）：
 
-- 主程序：https://github.com/gggffi-com/yiban-bot/releases/download/v1.2.13/YibanBot_1.2.13.zip
-- OCR 补丁：https://github.com/gggffi-com/yiban-bot/releases/download/v1.2.13/YibanBot_OCR_Patch_1.2.5.zip
+- 主程序：https://github.com/gggfff-com/yiban-bot/releases/download/v1.2.13/YibanBot_1.2.13.zip
+- OCR 补丁：https://github.com/gggfff-com/yiban-bot/releases/download/v1.2.13/YibanBot_OCR_Patch_1.2.5.zip
 
 > 在 Releases 页面里，两个文件收在 **Assets** 折叠区，点开就能看到；如果只看到源码压缩包（Source code），说明 Assets 还没展开。
 
