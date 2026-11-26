@@ -30,10 +30,19 @@ Windows 桌面端易班自动化工具：自动登录（含验证码）、签到
 | `YibanBot_OCR_Patch_1.2.5.zip` | 106.1 MB | OCR 补丁，仅首次安装（1.2.5 起通用，后续版本未改依赖） |
 | `version.json` | 2.2 KB | 版本信息，供客户端检查更新、供下载页动态渲染 |
 
-下载地址：
+下载地址（任选其一，包内容完全一样）：
 
-- GitHub Releases：`https://github.com/你的用户名/你的仓库/releases/latest`（两个 zip 作为 Release assets 上传）
-- 国内主站（推荐，速度快）：`https://smart-study.cn/downloads/`
+| 来源 | 地址 | 说明 |
+|---|---|---|
+| 国内主站（推荐） | https://smart-study.cn/downloads/ | 速度快，适合国内直接下 |
+| GitHub Releases | https://github.com/gggffi-com/yiban-bot/releases/latest | 备用；国内访问可能只有几百 KB/s |
+
+GitHub 直链（打不开上面页面时可直接点这两个）：
+
+- 主程序：https://github.com/gggffi-com/yiban-bot/releases/download/v1.2.13/YibanBot_1.2.13.zip
+- OCR 补丁：https://github.com/gggffi-com/yiban-bot/releases/download/v1.2.13/YibanBot_OCR_Patch_1.2.5.zip
+
+> 在 Releases 页面里，两个文件收在 **Assets** 折叠区，点开就能看到；如果只看到源码压缩包（Source code），说明 Assets 还没展开。
 
 校验值：
 
